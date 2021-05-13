@@ -1,6 +1,6 @@
 # Bull-Game
 
-Download the apk [here]([app-debug.apk.zip](https://github.com/vivekdhir77/Bull-Game/files/6474795/app-debug.apk.zip))
+Download the apk [here](https://github.com/vivekdhir77/Bull-Game/files/6474795/app-debug.apk.zip)
 
 >
 ##       How to play
