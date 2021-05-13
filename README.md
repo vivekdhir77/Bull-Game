@@ -1,4 +1,7 @@
 # Bull-Game
+
+Download the apk [here](https://github.com/vivekdhir77/Bull-Game)
+
 >
 ##       How to play
         
