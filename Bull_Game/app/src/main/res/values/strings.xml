@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Bull Game</string>
+    <string name="player_v_s_player">PLAYER v/s PLAYER</string>
+    <string name="player_v_s_bot">PLAYER v/s BOT</string>
+    <string name="rules">RULES</string>
+    <string name="bull_game">BULL GAME</string>
+    <string name="todo">TODO</string>
+
+    <string name="how_to_play">
+        \n \n
+        <br><b>How to play</b> the ‘Guess the Bull weight’ game \n</br>
+        <br>(or how we like to call it cow-bull-shit game) \n</br>
+
+        <br> \n</br>
+        <br><b> (human v/s human) \n</b></br>
+        <br>1. This is a 2 player game. \n</br>
+        <br>2. Each player thinks of a 3 digited number(KEY). \n</br>
+        <br>3. The goal of the game is to figure out the KEY of the opposite player. \n</br>
+        <br>4. The game starts off with Player1 randomly guessing Player2 ‘s KEY while Player2 gives him the appropriate clues. \n</br>
+        <br>5. In the next round, Player2 will start guessing Player1’s KEY while Player1 gives clues. \n</br>
+        <br>6. We keep repeating the same pattern until one of the players guesses their opponent’s key. \n</br>
+\n
+        <br><b> (human v/s computer)</b> \n</br>
+        <br>1. This is a 1 player game. \n</br>
+        <br>2. The player thinks of a 3 digited number(KEY). \n</br>
+        <br>3. The goal of the game is to figure out the KEY of the computer. \n</br>
+        <br>4. The game starts off with Player randomly guessing computer‘s KEY while Computer gives him the appropriate clues. \n</br>
+        <br>5. We keep repeating the same pattern until player guesses the key. \n</br>
+    <br>\n</br>
+        <br><b>How the clues work: The clue format consists of 3 parts : \n</b></br>
+        <br>1)number of correct digits in their respective places-(bull) \n</br>
+        <br>2)number of correct digits but not in their correct place-(cow) \n</br>
+        <br>3)all digits are wrong-(shit) \n</br>
+    <br>\n</br>
+        <br><b>Rules while setting a key: </b>\n</br>
+        <br>It should be a three digit number made up of numbers from 0 to 9. \n</br>
+        <br>All three digits can have repetitions. \n</br>
+        <br>For example: \n</br>
+        <br>079 - VALID. \n</br>
+        <br>911 - VALID \n</br>
+        <br>2789-INVALID (since it is not a three digit number) \n</br>\n \n
+    </string>
+</resources>
