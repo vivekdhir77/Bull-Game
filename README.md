@@ -16,9 +16,10 @@
         1. This is a 2 player game.
         2. Each player thinks of a 3 digited number(KEY).
         3. The goal of the game is to figure out the KEY of the opposite player. 
-        4. The game starts off with Player1 randomly guessing Player2 ‘s KEY while Player2 gives him the appropriate clues.
-        5. In the next round, Player2 will start guessing Player1’s KEY while Player1 gives clues. 
-        6. We keep repeating the same pattern until one of the players guesses their opponent’s key.
+        4. The game starts off with Player1 randomly guessing Player2 ‘s 
+           KEY while Player2 gives him the appropriate clues.
+        6. In the next round, Player2 will start guessing Player1’s KEY while Player1 gives clues. 
+        7. We keep repeating the same pattern until one of the players guesses their opponent’s key.
 
 
 
@@ -31,8 +32,9 @@
        1. This is a 1 player game.
        2. The player thinks of a 3 digited number(KEY).
        3. The goal of the game is to figure out the KEY of the computer.
-       4. The game starts off with Player randomly guessing computer‘s KEY while Computer gives him the appropriate clues.
-       5. We keep repeating the same pattern until player guesses the key.
+       4. The game starts off with Player randomly guessing computer‘s 
+          KEY while Computer gives him the appropriate clues.
+       6. We keep repeating the same pattern until player guesses the key.
         
     
     
